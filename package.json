@@ -1,7 +1,6 @@
 {
-  "name": "my-render-app",
+  "name": "render-app",
   "version": "1.0.0",
-  "description": "Node.js app on Render",
   "main": "server.js",
   "engines": {
     "node": "20.x"
