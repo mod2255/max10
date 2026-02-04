@@ -1,24 +1,16 @@
 {
-  "name": "R8HEX",
+  "name": "my-render-app",
   "version": "1.0.0",
-  "description": "its a Free Version",
+  "description": "Node.js app on Render",
   "main": "server.js",
   "engines": {
-    "node": "16.13.2"
+    "node": "20.x"
   },
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": ["Testing"],
-  "author": "@A1BUG",
-  "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.1",
-    "express": "latest",
-    "multer": "^1.4.4",
-    "node-telegram-bot-api": "latest",
-    "uuid": "^8.3.2",
-    "ws": "latest",
-    "axios": "^0.26.1"
+    "express": "^5.2.1",
+    "multer": "^1.4.5-lts.1"
   }
 }
